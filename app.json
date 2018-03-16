@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/canvas/canvas"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "生成分享图",
+    "navigationBarTextStyle":"black"
+  }
+}
