@@ -10,6 +10,6 @@
 
 **4.** 再来一个按钮把展示的图片调用`wx.saveImageToPhotosAlbum()`保存到相册中，完结撒花；
 
-**更详细的解释见[微信小程序 canvas生成分享图](https://www.jianshu.com/p/01f526a4f948)**
+**更详细的解释见 <a href="https://www.jianshu.com/p/01f526a4f948" target="_blank">微信小程序 canvas生成分享图</a>**
 
 **任何问题欢迎留言**
