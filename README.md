@@ -1,4 +1,4 @@
-[在线阅读地址](https://www.jianshu.com/p/01f526a4f948)**
+[在线阅读地址](https://www.jianshu.com/p/01f526a4f948)
 
 小程序的入口主要集中了以下3个：
 * 二维码
